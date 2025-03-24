@@ -1,0 +1,11 @@
+- Customer - Company
+- Customer - Project Manager
+- Project Manager - Senior Developer
+
+- Senior DB handling methos -> expose -> Junior Developer
+
+Senior Dev -> DB -> Functionality -> export mothods
+
+Junior Dev -> cannnot touch DB 
+
+Right way to develop in reallife (DB-Services-Export-Controller-Route-Requirement)
